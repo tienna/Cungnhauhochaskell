@@ -31,7 +31,8 @@ f4 x y z = x == (y ++ z)
 -- Question 5
 -- Can you also define in Haskell list of lists? Did we showed any example of that? How would you access the inner
 -- most elements?
--}
 
+danhsach :: [[[Int]]]
 danhsach = [[1,2,3], [4,5,6], [7,8,9]]
 pt = danhsach !! 2 !! 1
+-}
