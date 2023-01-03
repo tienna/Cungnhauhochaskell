@@ -5,6 +5,7 @@
 tongbpthuongtich :: Double -> Double -> Double
 tongbpthuongtich  a b =
  let   ve1 = bpthuong where bpthuong = (a*b)^2
-       ve2 - bptich where bpthich = (a/b)^2
-  in tongbp = bpthuong +bptich
+       ve2 = bptich where bpthich = (a/b)^2
+  in t
+  --in tongbp = bpthuong +bptich
 
